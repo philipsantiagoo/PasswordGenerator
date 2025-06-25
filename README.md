@@ -25,7 +25,7 @@
 ##
 
 ### 📚 Possíveis Melhorias Futuras
-📌 Adicinhar uma interface gráfica <br>
+📌 Adicionar uma interface gráfica <br>
 📌 Geração de senhas baseadas em frases <br>
 📌 Validação da rigidez da senha <br>
 
