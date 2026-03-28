@@ -1,32 +1,36 @@
-# Gerador de Senhas Automático
+# Password Generator
 
-### 📚 Descrição
-• Gerador de senhas interativo feito em ***Python***, que permite o usuário personalizar a composição da senha ao possibilitar incluir números, letras maiúsculas e minúsculas, bem como caracteres especiais.  
+An interactive command-line password generator written in **Python**, allowing full customization of the password composition.
 
+## Features
 
-### 📚 Funcionalidades
-📌 O usuário pode determinar o tamanho da senha a sua vontade <br>
-📌 Possibilidade de escolher entre adicionar números, letras (maiúsculas e minúsculas) e símbolos a sua senha <br>
-📌 Gera senhas seguras e aleatórias <br>
-📌 Simples e fácil de usar via terminal <br>
+- Define the password length
+- Choose to include numbers, uppercase/lowercase letters, and special characters
+- Generates secure, randomized passwords
 
+## Technologies
 
-### 📚 Tecnologias Utilizadas
-• Python <br>
-• **Bibliotecas**: random, string e time <br>
+- Python 3.x
+- Standard libraries: `random`, `string`, `time`
 
-##
+## How to use
 
-### 📚 Como usar
-📌 Instale o ***Python*** 3.x <br>
-📌 Clone o repositório <br>
-📌 Execute o script <br>
+1. Install [Python 3.x](https://www.python.org/downloads/)
+2. Clone the repository
+```bash
+   git clone https://github.com/<your-username>/password-generator.git
+```
+3. Run the script
+```bash
+   python main.py
+```
 
-##
+## Possible future improvements
 
-### 📚 Possíveis Melhorias Futuras
-📌 Adicionar uma interface gráfica <br>
-📌 Geração de senhas baseadas em frases <br>
-📌 Validação da rigidez da senha <br>
+- Graphical user interface (GUI)
+- Passphrase-based generation
+- Password strength validation
 
-##
+## License
+
+This project is licensed under the [MIT License](LICENSE).
